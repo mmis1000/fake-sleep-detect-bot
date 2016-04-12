@@ -1,0 +1,14 @@
+{
+  "name": "fake-sleep-detect-bot",
+  "version": "0.0.1",
+  "description": "a bot to detect fake sleep anounce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mmis1000",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.70.0"
+  }
+}
